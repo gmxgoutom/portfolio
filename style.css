@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 h1{
     font-size: 50px; 
@@ -13,18 +14,25 @@ section{
 }
 .half-width{
     width: 50%;
+    margin-top: 5%;
     padding-left: 10%;
+    padding-right: 10%;
 }
 .half-width img{
-    width: 50%;
+    width: 100%;
+    margin-left: -10%;
     
 }
 .hire-button{
     text-decoration: none;
     color: white;
-    font-weight: ;
+    font-weight: 700;
     background-color: orange;
     padding: 10px 20px;
     border-radius: 50px;
     background-image: linear-gradient(orange, orangered);
+}
+.top-section{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
