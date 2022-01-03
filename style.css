@@ -7,13 +7,24 @@ h1{
 span{
     color: orange;
 }
-button{
-    color: 000;
+
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width img{
+    width: 50%;
+    
+}
+.hire-button{
+    text-decoration: none;
+    color: white;
+    font-weight: ;
     background-color: orange;
-    border: none;
     padding: 10px 20px;
     border-radius: 50px;
-    font-size: 16px;
-    font-family: poppins;
-    font-weight: 600;
+    background-image: linear-gradient(orange, orangered);
 }
