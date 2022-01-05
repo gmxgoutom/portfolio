@@ -16,11 +16,11 @@ section{
     width: 50%;
     margin-top: 5%;
     padding-left: 10%;
-    padding-right: 10%;
+    
 }
 .half-width img{
-    width: 100%;
-    margin-left: -10%;
+    width: 80%;
+    margin-left: 10%;
     
 }
 .hire-button{
